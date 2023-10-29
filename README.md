@@ -10,3 +10,5 @@ Application features:
 - the option to choose the sampling frequency and the number of bits per sample for saving the wav file.
 
 The application is basically a combination of the other 3 applications I created, also available here on Github. So, either you use them separately, or you use this application which is the sum of all three apps above mentioned.  
+
+For more information or if you need any help, you can contact me.
