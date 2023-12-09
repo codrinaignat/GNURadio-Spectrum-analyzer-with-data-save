@@ -18,3 +18,6 @@ If you want to find out more information about the RTL-SDR device, you can take 
 
 For more information or if you need any help, you can contact me.
 
+Full documentation of the project in Romanian:
+
+https://electronicaplicata.wordpress.com/2023/12/03/software-defined-radio-sdr-pentru-incepatori-aplicatii-si-explicatii/
